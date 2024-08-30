@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=${TERMINAL} --maximized zsh -c 'source $ZDOTDIR/.zshrc; todo'
+Name=Todo
+Icon=/usr/share/icons/breeze-dark/mimetypes/16/text-x-adasrc.svg
+StartupNotify=false
+Terminal=false
+Type=Application

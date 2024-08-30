@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=~/.local/bin/transcribe --reformat --output type
+Name=Transcribe
+Icon=/usr/share/icons/breeze-dark/devices/22/audio-card-symbolic.svg
+StartupNotify=false
+Terminal=false
+Type=Application

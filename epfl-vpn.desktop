@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/usr/bin/env ~/.local/bin/epfl-vpn toggle
+Name=EPFL VPN
+Icon=/usr/share/icons/breeze-dark/apps/48/fingerprint-gui.svg
+StartupNotify=false
+Type=Application
